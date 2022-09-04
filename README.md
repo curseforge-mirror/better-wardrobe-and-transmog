@@ -1,6 +1,6 @@
 # Better Wardrobe and Transmog Mirror
 
-This is a mirror of SLOKnightfall's Better Wardrobe and Transmog
+This is a mirror of SLOKnightFall's Better Wardrobe and Transmog
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/better-wardrobe-and-transmog)
 
